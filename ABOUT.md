@@ -1,16 +1,18 @@
-This is our page
+Welcome to fitio Page
 ================
 
-Or I should say, this is my page as i am running this alone.
+Hello, We are a bunch of friends who are students of Faculty of Information Technology, University of Moratuwa, Sri Lanka.
+We are interested in new technologies and we love coding.
 
 
-About me
+
+About Our Team
 ===========================
 
-| felx |
-|--- |
-| ![felx](https://avatars1.githubusercontent.com/u/372050?v=3&s=460) |
-
+| Akila | Samitha | Sandun | Ruwanka | Lahiru
+|--- |--- |--- |--- |--- | ---
+| ![Akila](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Samitha](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![Sandun](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | ![Ruwanka](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg) |
+![Lahiru](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
 I join to test koding.
 
 About your skills and what you are going to do?
