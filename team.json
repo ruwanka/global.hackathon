@@ -1,11 +1,36 @@
 {
-  "teamName": "ayb",
+  "teamName": "fitio",
   "members": [
     {
-      "name": "François-Xavier Kuntz",
-      "twitter": "@fxkuntz",
-      "koding": "felx",
-      "location": "Paris, FR"
+      "name": "Ruwanka Madhushan",
+      "twitter": "@ruwankaM",
+      "koding": "ruwa",
+      "location": "Colombo, LK",
+      "lead": true
+    },
+    {
+      "name": "Lahiru Sampath",
+      "twitter": "@lahiruzz",
+      "koding": "lahiruz",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Samitha Chathuranga",
+      "twitter": "@SamithaRM",
+      "koding": "samithachathuranga",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Akila Sandakelum",
+      "twitter": "@SandakelumAkila",
+      "koding": "akilasandakelum",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Sandun Priyanka",
+      "twitter": "@SandunPriyanka",
+      "koding": "nspdesilva",
+      "location": "Colombo, LK"
     }
   ]
 }
