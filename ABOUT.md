@@ -1,10 +1,9 @@
 Welcome to fitio Page
 ================
 
-Hello, We are a bunch of friends who are students of Faculty of Information Technology, University of Moratuwa, 
-Sri Lanka. We are interested in new technologies and we love coding.
+Hello, We are a bunch of friends of Faculty of Information Technology, University of Moratuwa, the best tech university in Sri Lanka. We are interested in new technologies and we love coding.
 
-One day one of our members got the email saying that there will be a virtual hackthon O_o, never heard about that kind of thing. He just applied it just for fun and curious, he never had a clue that he'll be in. Then after some days he got the e mail that saying he was selected and can form a group. So here we are fitio :-)
+One day one of our members got the email saying that there will be a virtual hackathon O_o, never heard about that kind of thing. He just applied it just for fun and curious, he never had a clue that he'll be in. Then after some days he got the e mail that saying he was selected and can form a group. So here we are fitio :-)
 
 About Our Team
 ===========================
